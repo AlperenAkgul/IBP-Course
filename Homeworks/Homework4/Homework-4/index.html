@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 4</title>
+</head>
+<body>
+    <h3>First, create a form. Have inputs and button. Then implement it with Form Action using Get and Post methods with different target attributes.</h3>
+    <h4>POST:</h4>
+    <form action="post.php" method="POST">
+        <div class="column-1">
+            <label>Name:</label>
+        </div>
+        <div class="column-2">
+            <input type="text" name="name" required>
+        </div>
+
+        <div class="column-1">
+            <label>Surname:</label>
+        </div>
+        <div class="column-2">
+            <input type="text" name="surname" required>
+        </div>
+
+        <div class="column-1">
+            <label>Gender:</label>
+        </div>
+        <div class="column-2">
+            <input type="radio" name="gender" value="Male">Male
+            <input type="radio" name="gender" value="Female">Female
+        </div>
+
+        <input type="submit" name="submit" value="Post">
+    </form>
+    <h3>--------------------------------------------------------------------------</h3>
+    <h4>GET:</h4>
+    <form action="get.php" method="GET">
+        <div class="column-1">
+            <label>Name:</label>
+        </div>
+        <div class="column-2">
+            <input type="text" name="name" required>
+        </div>
+
+        <div class="column-1">
+            <label>Surname:</label>
+        </div>
+        <div class="column-2">
+            <input type="text" name="surname" required>
+        </div>
+
+        <div class="column-1">
+            <label>Gender:</label>
+        </div>
+        <div class="column-2">
+            <input type="radio" name="gender" value="Male">Male
+            <input type="radio" name="gender" value="Female">Female
+        </div>
+
+        <input type="submit" name="submit" value="Get">
+    </form>
+    <h3>--------------------------------------------------------------------------</h3>
+</body>
+</html>
