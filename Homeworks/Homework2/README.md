@@ -1,2 +1,2 @@
 
-Homework given in Week 3
+Homework given in Week 3.
