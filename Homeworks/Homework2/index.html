@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 2</title>
+</head>
+<body>
+    <h3>Image Example</h3>
+    <img src="images/example.jpg" alt="Example Image" width="200px" height="200px">
+    <!--Source: http://www.differencebetween.net/language/words-language/difference-between-example-and-sample/-->
+    <h3>--------------------------</h3>
+
+    <h3>Image Map Example</h3>
+    <img src="http://jaced.com/blogpix/2007/trisquarecircle/002.gif" usemap="#shapes">
+    <map name="shapes">
+        <area shape="polygon" coords="79,6,5,134,153,134" href="" onclick="myFunction('polygon')">
+        <area shape="rectangle" coords="177,6,306,134" href="" onclick="myFunction('rectangle')">
+        <area shape="circle" coords="397,71,65" href="" onclick="myFunction('circle')">
+    </map>
+
+    <script>
+        var object = '';
+        function myFunction(object){
+            alert("You clicked on " + object);
+        }
+    </script>
+    <h3>--------------------------</h3>
+
+    <h3>Color Example</h3>
+    <label for="color-picker">Color:</label>
+    <input type="color" id="color-picker" value="000000">
+
+    <h3>--------------------------</h3>
+</body>
+</html>
