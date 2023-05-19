@@ -1,0 +1,18 @@
+body{
+    color: blue;
+}
+
+label{
+    color: red;
+}
+
+input[type=text]{
+    width: 200px;
+    height: 10px;
+}
+
+input[type=text]:focus{
+    width: 250px;
+    background-color: darkcyan;
+    color: azure;
+}
