@@ -22,14 +22,8 @@ class Login extends CI_Controller
 
     public function login_check()
     {
-        /*$this->form_validation->set_rules('email', 'email', 'trim|required|xss_clean');
+        $this->form_validation->set_rules('email', 'email', 'trim|required|xss_clean');
         $this->form_validation->set_rules('pass', 'pass', 'trim|required|xss_clean');
-
-        if($this->form_validation->run() == FALSE){
-            $this->session->set_flashdata("login_failed","Not valid enter");
-            $this->load->view('admin/login_form');
-        }
-        else{*/
 
         $email = $this->input->post('email', TRUE);
         $pass = $this->input->post('password', TRUE);
