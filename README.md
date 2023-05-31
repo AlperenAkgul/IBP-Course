@@ -1,7 +1,7 @@
 # IBP-Course
 <h2>Alperen Akgül 2110206030</h2>
 <h3>This repository is for projects and homeworks given in CPE212 - Internet Based Programming</h3>
-<h2>YouTube Link for Presentation: https://www.youtube.com/watch?v=2pJ0mUvcBuU</h2>
+<h2>YouTube Link for Presentation: https://www.youtube.com/watch?v=hsGq1X-fzmc</h2>
 <p> - The homeworks that given in course are available in "Homeworks" folder.</p>
 <p> - The lab studies that is done in lab lessons are available in "Lab Studies" folder.</p>
 <p> - The project that given in course are available in "Project" folder.</p>
@@ -9,7 +9,7 @@
 <h1>This is the project given in CPE212 - Internet Based Programming .</h1>
 <h2>Project Information :mag:</h2>
 <h3>This project developed with <b>CodeIgniter 3</b> :fire:</h3> 
-<h4> - Youtube Link for Prensentation: https://www.youtube.com/watch?v=2pJ0mUvcBuU </h4>
+<h4> - Youtube Link for Prensentation: https://www.youtube.com/watch?v=hsGq1X-fzmc </h4>
 <h4> - Admin E-Mail: admin123@library.com Password: admin123</h4>
 <h4> - User E-Mail: user123@library.com Password: user123</h4>
 <br>
