@@ -1,7 +1,7 @@
 <h1>This is the project given in CPE212 - Internet Based Programming .</h1>
 <h2>Project Information :mag:</h2>
 <h3>This project developed with <b>CodeIgniter 3</b> :fire:</h3> 
-<h4> - Youtube Link for Prensentation: https://www.youtube.com/watch?v=hsGq1X-fzmc </h4>
+<h4> - Youtube Link for Prensentation:  </h4>
 <h4> - Admin E-Mail: admin123@library.com Password: admin123</h4>
 <h4> - User E-Mail: user123@library.com Password: user123</h4>
 <br>
